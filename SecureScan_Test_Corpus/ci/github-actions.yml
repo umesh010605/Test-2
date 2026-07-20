@@ -1,0 +1,2 @@
+# PATTERN: CI/CD Secret Exposure
+# echo ${{ secrets.PROD_TOKEN }}

@@ -1,0 +1,56 @@
+[
+  {
+    "file": "backend/sql_example.py",
+    "title": "SQL Injection Pattern",
+    "cwe": "CWE-89",
+    "severity": "High"
+  },
+  {
+    "file": "backend/xss_example.js",
+    "title": "XSS Pattern",
+    "cwe": "CWE-79",
+    "severity": "High"
+  },
+  {
+    "file": "backend/auth_example.py",
+    "title": "Broken Authentication",
+    "cwe": "CWE-287",
+    "severity": "High"
+  },
+  {
+    "file": "config/app.env.example",
+    "title": "Hardcoded Secret",
+    "cwe": "CWE-798",
+    "severity": "Medium"
+  },
+  {
+    "file": "docker/Dockerfile",
+    "title": "Docker Misconfiguration",
+    "cwe": "CWE-250",
+    "severity": "Medium"
+  },
+  {
+    "file": "k8s/deployment.yaml",
+    "title": "Kubernetes Misconfiguration",
+    "cwe": "CWE-732",
+    "severity": "Medium"
+  },
+  {
+    "file": "ci/github-actions.yml",
+    "title": "CI Secret Pattern",
+    "cwe": "CWE-200",
+    "severity": "Medium"
+  },
+  {
+    "file": "terraform/main.tf",
+    "title": "Terraform Misconfiguration",
+    "cwe": "CWE-284",
+    "severity": "Medium"
+  },
+  {
+    "file": "scripts/command_injection.txt",
+    "title": "Command Injection Pattern",
+    "cwe": "CWE-78",
+    "severity": "High"
+  }
+]

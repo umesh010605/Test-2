@@ -1,0 +1,3 @@
+Educational pattern:
+os.system(user_input)
+Use subprocess.run([...], shell=False)

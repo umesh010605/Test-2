@@ -1,0 +1,3 @@
+# PATTERN: Kubernetes Misconfiguration
+# securityContext:
+#   runAsNonRoot: false
