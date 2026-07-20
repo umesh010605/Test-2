@@ -1,3 +1,1 @@
-# PATTERN: Container Misconfiguration
-# FROM ubuntu:latest
-# USER root
+# Pattern only: container runs as root

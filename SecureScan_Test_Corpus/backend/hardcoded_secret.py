@@ -1,0 +1,1 @@
+"""PATTERN ONLY: Hardcoded secret example."""

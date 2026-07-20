@@ -1,0 +1,1 @@
+"""Secure example only."""

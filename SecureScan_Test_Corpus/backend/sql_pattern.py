@@ -1,0 +1,1 @@
+"""PATTERN ONLY: SQL Injection example (non-executable)."""
